@@ -1,1 +1,1 @@
-# Python-Intelig-ncia-Artificial-com-NotebookLM
+# Python-Inteligiencia-Artificial-com-NotebookLM
