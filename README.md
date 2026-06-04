@@ -1,4 +1,3 @@
-# Python-Inteligiencia-Artificial-com-NotebookLM
 # 🧠 Aprendendo Python & Inteligência Artificial com NotebookLM
 
 ## 📖 Contexto e Objetivos
