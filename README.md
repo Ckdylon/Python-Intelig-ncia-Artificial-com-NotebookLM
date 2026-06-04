@@ -1,6 +1,6 @@
-# 🧠 Aprendendo Python & Inteligência Artificial com NotebookLM
+# Aprendendo Python & Inteligência Artificial com NotebookLM
 
-## 📖 Contexto e Objetivos
+## Contexto e Objetivos
 Este projeto foi desenvolvido como parte de um desafio prático na **DIO (Digital Innovation One)**. O objetivo principal é construir um **Caderno Temático Inteligente** utilizando o **Google NotebookLM** para acelerar, organizar e consolidar o aprendizado da linguagem **Python** aplicada ao ecossistema de **Inteligência Artificial (IA)** e **Machine Learning (ML)**.
 
 **Objetivos de Estudo:**
@@ -11,7 +11,7 @@ Este projeto foi desenvolvido como parte de um desafio prático na **DIO (Digita
 
 ---
 
-## 📚 Curadoria de Fontes
+## Curadoria de Fontes
 O NotebookLM foi alimentado com uma seleção de materiais didáticos e documentações técnicas focadas no desenvolvimento em Python para IA:
 
 1. **Fundamentos de Python e POO:** Artigos e tutoriais focados em lógica de programação, sintaxe limpa e desenvolvimento orientado a objetos.
@@ -20,7 +20,7 @@ O NotebookLM foi alimentado com uma seleção de materiais didáticos e document
 
 ---
 
-## 🔬 Engenharia de Prompts e "Cicatrizes" (Troubleshooting)
+## Engenharia de Prompts e "Cicatrizes" (Troubleshooting)
 Abaixo está o registro dos testes de prompts realizados para extrair insights estruturados do material sintetizado, documentando o processo de refino e os desafios encontrados.
 
 ### 🔹 Teste 1: Casos de Uso do Python em IA
@@ -35,9 +35,9 @@ Abaixo está o registro dos testes de prompts realizados para extrair insights e
 
 ---
 
-## 🚀 Miniguia de Estudo (Entrega Final)
+## Miniguia de Estudo (Entrega Final)
 
-### 📌 Resumos Estruturados e Fluxos de Trabalho
+### Resumos Estruturados e Fluxos de Trabalho
 
 #### 1. O Ciclo de Vida de Machine Learning em Python
 O desenvolvimento de um modelo tradicional de Machine Learning dentro do ecossistema Python segue um fluxo de trabalho estritamente estruturado e sequencial:
@@ -70,7 +70,7 @@ Para solucionar o problema de "alucinação" das LLMs e permitir que elas consul
 
 ---
 
-### 📕 Glossário Técnico de Conceitos
+### Glossário Técnico de Conceitos
 * **Python:** Linguagem de programação de alto nível, interpretada, cuja simplicidade sintática a tornou o padrão global para IA.
 * **LLM (Large Language Model):** Modelos massivos de linguagem baseados em redes neurais treinados para compreender e gerar texto (ex: GPT, Gemini).
 * **RAG (Retrieval-Augmented Generation):** Técnica que estende a capacidade de uma LLM consultando uma base de conhecimento externa antes de gerar a resposta.
@@ -80,6 +80,6 @@ Para solucionar o problema de "alucinação" das LLMs e permitir que elas consul
 ---
 
 ### 🛠️ Prompts Reutilizáveis para Revisão Coletiva
-* 🎯 `“Atuando como um entrevistador técnico de Data Science, crie um quiz de 5 perguntas de múltipla escolha com gabarito comentado sobre o fluxo de treino e teste do Scikit-learn com base nas fontes.”`
-* 🎯 `“Gere um resumo executivo em tópicos explicando a diferença prática entre o foco do Scikit-learn (predição) e do Statsmodels (inferência), utilizando trechos dos documentos.”`
-* 🎯 `“Crie um guia passo a passo simplificado para explicar o conceito de busca semântica em arquiteturas RAG para uma pessoa leiga.”`
+*  `Atuando como um entrevistador técnico de Data Science, crie um quiz de 5 perguntas de múltipla escolha com gabarito comentado sobre o fluxo de treino e teste do Scikit-learn com base nas fontes.”`
+*  `“Gere um resumo executivo em tópicos explicando a diferença prática entre o foco do Scikit-learn (predição) e do Statsmodels (inferência), utilizando trechos dos documentos.”`
+*  `“Crie um guia passo a passo simplificado para explicar o conceito de busca semântica em arquiteturas RAG para uma pessoa leiga.”`
